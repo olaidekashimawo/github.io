@@ -1,3 +1,6 @@
+module:
+  imports:
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
 <!DOCTYPE html>
 <html lang="en">
 <head>
