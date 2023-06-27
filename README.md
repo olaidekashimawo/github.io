@@ -8,7 +8,7 @@
 <body>
   <h1>My GitHub Pages</h1>
   <p>This is my personal website, where I share my projects and work.</p>
-  <p>You can find more information about me on my <a href="https://github.com/username">GitHub profile</a>.</p>
+  <p>You can find more information about me on my <a href="https://[github.com/username">GitHub profile](https://github.com/olaidekashimawo/github.io/)</a>.</p>
 </body>
 </html>
 <!DOCTYPE html>
